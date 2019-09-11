@@ -1,5 +1,5 @@
 {
-  "homepage":"https://SteeveZanzouri.github.io/repository-name",
+  "homepage":"https://SteeveZanzouri.github.io/testTree",
   "scripts":{
    "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
